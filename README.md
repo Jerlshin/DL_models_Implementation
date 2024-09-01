@@ -12,6 +12,9 @@ This repository contains implementations of various deep learning architectures 
   - [Transformers](./Transformers/): Implementation of various transformer models.
   - [VGG-16](./VGG-16/): Implementation of the VGG-16 architecture.
   - [YOLOvX](./YOLO%20v_x%20Implementation/): Implementation of YOLO (You Only Look Once) versions.
+  - [Shifted Window Transformer](): Implementation of SWIN transformer with PyTorch
+  - [Vision Transformer Paligemma](): Implementation of Multimodal Paligemma Vision Transformer.
+  
 
 ## Usage
 
